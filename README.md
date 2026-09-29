@@ -4,6 +4,7 @@ AI 코딩 도구(Claude Code, Codex, Gemini CLI 등)를 위해 만든 Windows �
 
 ## 다운로드
 
+- **웹사이트: https://seterminal-website.vercel.app**
 - **[최신 버전 설치 파일](https://github.com/JeaSungLEE/SETerminal-releases/releases/latest/download/SETerminal_x64-setup.exe)** (Windows 10 1809 이상 · Windows 11, 64비트)
 - [모든 릴리즈와 변경 내역](https://github.com/JeaSungLEE/SETerminal-releases/releases)
 
